@@ -1,0 +1,5 @@
+From https://github.com/mesonbuild/meson/data/syntax-highlighting/vim
+
+ftdetect sets the filetype
+syntax does Meson syntax highlighting
+plugin does Meson indentation
